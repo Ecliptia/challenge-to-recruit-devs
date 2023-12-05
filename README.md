@@ -1,10 +1,10 @@
-# Developer Recruitment Challenge
+# Moonlink.js Developer Recruitment Challenge
 
 ## Introduction
-Welcome to the developer recruitment challenge for individuals interested in contributing to an npmjs Lavalink client package. This challenge aims to assess your coding skills, code clarity, and basic understanding of interacting with an API.
+Welcome to the developer recruitment challenge to become a Moonlink.js developer. This challenge aims to assess your coding skills, code clarity, and basic understanding of interactions with Moonlink.js.
 
 ## Objective
-The main goal of this challenge is to create a simple client to interact with Lavalink and perform basic operations, such as playing and pausing a song.
+The challenge is to create a simple client to interact with Lavalink (without using packages that provide this functionality out of the box) and perform basic operations, such as playing and pausing music.
 
 ## Requirements
 
@@ -13,15 +13,14 @@ The main goal of this challenge is to create a simple client to interact with La
    - Provide configuration options, such as host, port, password, etc.
 
 2. **Play Music Command:**
-   - Implement a command to play a song. The command should accept a YouTube URL as an argument.
-   - Ensure that the song is played in the voice channel of the user who executed the command.
+   - Implement a command to play music. The command should accept a YouTube URL as an argument.
+   - Ensure that the music is played in the voice channel of the user who executed the command.
 
 3. **Pause Command:**
-   - Implement a command to pause the currently playing song.
+   - Implement a command to pause the currently playing music.
 
 4. **Code Clarity:**
-   - Write clear and well-commented code.
-   - Structure your project in an organized manner.
+   - Organize your project structure thoughtfully.
 
 ## Resources
 - [Lavalink GitHub](https://github.com/lavalink-devs/Lavalink)
@@ -30,9 +29,8 @@ The main goal of this challenge is to create a simple client to interact with La
 ## How to Participate
 1. Fork this repository.
 2. Create a branch for your changes.
-3. Develop your solution.
-4. Commit and push your changes.
-5. Open a pull request in this repository.
+3. Commit and push your changes.
+4. Open a pull request in this repository.
 
 ## Evaluation Criteria
 - Correct and complete functionality.
@@ -41,7 +39,9 @@ The main goal of this challenge is to create a simple client to interact with La
 - Adherence to requirements.
 
 ## Notes
-- Use the programming language of your choice.
-- Feel free to add any extra functionality you find relevant.
+- Use JavaScript (CommonJS, ECMAScript), or TypeScript.
+- Avoid using packages that provide ready-made functionalities for interacting with Lavalink.
+- Don't ask for ready-made code from chatGPT, Bard, other artificial intelligences; at most, they can help you understand how it works.
+- Don't use ready-made code from the internet.
 
-Good luck! We're excited to see what you create.
+Good luck! We look forward to seeing what you create.
