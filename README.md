@@ -43,5 +43,7 @@ The challenge is to create a simple client to interact with Lavalink (without us
 - Avoid using packages that provide ready-made functionalities for interacting with Lavalink.
 - Don't ask for ready-made code from chatGPT, Bard, other artificial intelligences; at most, they can help you understand how it works.
 - Don't use ready-made code from the internet.
+- You can use npmjs libraries of your choice to assist with integration, but packages that are lavalink clients will not be accepted.
+- using native libraries improves your evaluation.
 
 Good luck! We look forward to seeing what you create.
