@@ -9,9 +9,9 @@ The challenge is to create a simple client to interact with Lavalink (without us
 ## Requirements
 
 1. **Client Configuration:**
-   - Set up a client to connect to Lavalink.
+   - create a way to configure the wrapper
    - Provide configuration options, such as host, port, password, etc.
-
+   - the wrapper can be limited to one server, but if you want to grow more
 2. **Play Music Command:**
    - Implement a command to play music. The command should accept a YouTube URL as an argument.
    - Ensure that the music is played in the voice channel of the user who executed the command.
@@ -25,6 +25,8 @@ The challenge is to create a simple client to interact with Lavalink (without us
 ## Resources
 - [Lavalink GitHub](https://github.com/lavalink-devs/Lavalink)
 - [Lavalink API Documentation](https://github.com/lavalink-devs/Lavalink/blob/master/IMPLEMENTATION.md)
+
+## 
 
 ## How to Participate
 1. Fork this repository.
